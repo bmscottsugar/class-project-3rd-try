@@ -6,7 +6,7 @@ Class project for Code KY/Louisville Class: My goal is to compare population siz
 
 File to be downloaded from github.com to be viewed in Jupyter notebook: https://github.com/bmscottsugar/class-project-3rd-try/commit/e00942e628fe09a7f42c5c9b65a645316a5467d0
 
-
+Class Project Assets/Autism prevalence versus country population Class Project (1).ipynb
 
 Relevant packages that need to be installed to run the project:
 
@@ -33,8 +33,8 @@ To run the this program in a Jupyter Notebook:
 3. Open Jupyter notebook from command line or from Anaconda.
 4. From home page of Jupyter, click "upload"
 5. Navigate to the location where you save the cloned repo from step 2. 
-6. Click on File named "Autism prevalance vs country population.ipynb". 
-7. Click on "Run", the scroll down and select  "Run All"
+6. Click on File named "Class Project Assets/Autism prevalence versus country population Class Project (1).ipynb."
+7. Click on "Run", then scroll down and select  "Run All"
 
 
 Requirements met for Code Louisville:
