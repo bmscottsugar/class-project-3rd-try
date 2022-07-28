@@ -9,7 +9,7 @@ LInk to github.com website for Class Project. (Repo name is Class project 3rd tr
 
 File to be downloaded from Class project Repository to be downloaded and opened in Jupyter notebook:
 
-Autism Prevalence versus country population class project 7 26 2022.ipynb'
+7 28 2022 Autism Project Jupyter File
 
 Relevant packages that need to be installed to run the project:
 
@@ -42,9 +42,6 @@ To run the this program in a Jupyter Notebook:
 
 Requirements met for Code Louisville:
 
-1. Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program.
-Created CSV file(Corresponding Country Population 2020 CSV) using Google Sheets that listed the countries listed in the study "Autism by Country 2022 CSV" that was downloaded from Kaggle.com. The data  for the populations of the corresponding countries CSV file was downloaded and created via the website: worldbankgroup.org where a folder was created in which, the population of each country, in order corresponding order of the Autism by Country,  was created. 
-
 1. Read in data from a local csv, excel file, json, or any other file type. There are many ways to do this, but using Pandas read_ functions is pretty easy
 
 Used Pandas in Jupyter to read in several files, including : 'Autism Prevalence & Population 2020 combined CSV _4 - Autism by Country 2022.csv'. Also, read in the individual CSV files that were used to create "Autism Prevalence & Population 2020 combined CSV _4 - Autism by Country 2022.csv"
@@ -52,9 +49,9 @@ Used Pandas in Jupyter to read in several files, including : 'Autism Prevalence 
 2. Manipulate and clean your data:
 
 Used the following to better visualize all data in all CSV files:
-pd.set_option('display.max_rows', 500)
-pd.set_option('display.max_columns', 500)
-pd.set_option('display.width', 1000)
+pd.set_option('display.max_rows', 20)
+pd.set_option('display.max_columns', 15)
+pd.set_option('display.width', 50)
 
 Also, used the following in order to convert data into same format (int and float):
 
