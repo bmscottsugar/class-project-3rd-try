@@ -60,12 +60,13 @@ Autism_by_country_and_population['2020 Country Population'] = pd.to_numeric(Auti
 3. 
 Analyze your data! This is usually the more fun part and probably has more approaches than I can write here.
 Used the following built in functions to analyze data.
+
  a.  len(Country_Population) - -used twice
  b. type(Autism_by_country_and_population)
  c. Autism_by_country_and_population["2020 Country Population"].mean()calculated twice. Once for each column of data used
-
  d. Autism_by_country_and_population['prevalencePer10K'].median() calculated twice. Once for each column of data used
  e. Printed Top 4 rows and all columns using "data_top = Autism_by_country_and_population.head()
+ 
 
 
  4. Visualize your data. The standard choice here is just making a couple visualizations then interpreting them to say something about your data.
